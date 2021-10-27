@@ -3,11 +3,10 @@
 import os
 from os import getenv
 
-from pyrogram import Client
 from dotenv import load_dotenv
-from helpers.modhelps import fetch_heroku_git_url
 
-load_dotenv()
+if os.path.exists("local.env"):
+    load_dotenv("local.env")
 
 SESSION_NAME = getenv("SESSION_NAME", "session")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
