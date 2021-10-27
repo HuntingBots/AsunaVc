@@ -65,7 +65,17 @@ You can set Channel Music Play like this:
 
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/HuntingBots/AsunaMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+### With Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuntingBots/AsunaVc)
+
+### With Railway
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/HuntingBots/AsunaVc&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,ARQ_API_KEY,DATABASE_URL,UPSTREAM_REPO,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,THUMB_URL)
+
+### With Zeet
+
+<a href="https://zeet.co/new/template/itz-fork/yeah-my-man"><img src="https://user-images.githubusercontent.com/77770753/119371372-fe917900-bcd3-11eb-8db5-f5e8063cdd1c.jpg" width="94" height="28"></a>
 
 Get STRING_NAME from here:
 
