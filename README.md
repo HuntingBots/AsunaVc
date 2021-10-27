@@ -1,4 +1,4 @@
-<h1 align="centre">AsunaMusic Bot-V3.5 🎶</h1>
+<h1 align="centre">AsunaMusic Bot-V4.8🎶</h1>
 
 ### A bot that can play music on telegram group's voice call
 
@@ -12,10 +12,10 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/a3b7de7254411cbe33735.jpg">
+  <img src="https://telegra.ph/file/d302f97a3b8ec112f2eea.jpg">
 </p>
 
-<h2> Whats new 🔥 </h2>
+<h4> Whats new 🔥 </h4>
 
 - Thumbnail Support
 - Playlist Support
